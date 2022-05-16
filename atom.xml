@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnsonfloyd.github.io/</id>
     <title>冬瓜的博客</title>
-    <updated>2022-05-16T06:56:14.365Z</updated>
+    <updated>2022-05-16T07:40:55.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnsonfloyd.github.io/"/>
     <link rel="self" href="https://johnsonfloyd.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://johnsonfloyd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 冬瓜的博客</rights>
     <entry>
-        <title type="html"><![CDATA[枪、细菌和钢铁读后感]]></title>
+        <title type="html"><![CDATA[枪、细菌和钢铁]]></title>
         <id>https://johnsonfloyd.github.io/post/qiang-xi-jun-he-gang-tie-du-hou-gan/</id>
         <link href="https://johnsonfloyd.github.io/post/qiang-xi-jun-he-gang-tie-du-hou-gan/">
         </link>
@@ -38,7 +38,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黑客与画家读后感]]></title>
+        <title type="html"><![CDATA[黑客与画家]]></title>
         <id>https://johnsonfloyd.github.io/post/hei-ke-yu-hua-jia-du-hou-gan/</id>
         <link href="https://johnsonfloyd.github.io/post/hei-ke-yu-hua-jia-du-hou-gan/">
         </link>
