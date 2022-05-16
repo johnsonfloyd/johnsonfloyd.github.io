@@ -1,63 +1,109 @@
+
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>黑客与画家读后感 | Gridea</title>
-<link rel="shortcut icon" href="https://johnsonfloyd.github.io/favicon.ico?v=1652675379323">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://johnsonfloyd.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="黑客与画家读后感 | Gridea - Atom Feed" href="https://johnsonfloyd.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+    
+<meta charset="utf-8" >
+
+<title>黑客与画家读后感 | 冬瓜的博客</title>
+<meta name="description" content="理性的最后一步，就是承认有无限多的事物超出理性范围；假如理性不能承认这一点，它只能是脆弱的——布莱兹・帕斯卡尔《思想录》">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://johnsonfloyd.github.io//favicon.ico?v=1652677471015">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://johnsonfloyd.github.io//styles/main.css">
 
 
 
-    <meta name="description" content="
-Hackers and Painters: Big Ideas from the Computer Age
-从黑客的角度说明为何他们从外表和行动看上去和周围人格格不入，尤其是在中学生时期，除了是由于现代教育的监狱模式以外，最主要的原因是以..." />
-    <meta name="keywords" content="" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://johnsonfloyd.github.io">
-  <img class="avatar" src="https://johnsonfloyd.github.io/images/avatar.png?v=1652675379323" alt="">
-  </a>
-  <h1 class="site-title">
-    Gridea
-  </h1>
-  <p class="site-description">
-    温故而知新
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://johnsonfloyd.github.io/">
+        <img class="avatar" src="https://johnsonfloyd.github.io//images/avatar.png?v=1652677471015" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://johnsonfloyd.github.io/">
+        <h1 class="site-title">冬瓜的博客</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
   </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">黑客与画家读后感</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2022-05-16</span>
+            
+          </div>
+          <div class="post-content">
+            <ul>
+<li><strong>Hackers and Painters: Big Ideas from the Computer Age</strong></li>
+<li>从黑客的角度说明为何他们从外表和行动看上去和周围人格格不入，尤其是在中学生时期，除了是由于现代教育的监狱模式以外，最主要的原因是以他们故意为之。</li>
+<li>当人类开始以创造而非盗窃的手段来积累财富后使得整个社会的财富水平快速上升，这部分人以创造来获取财富的人就是大家熟知的中产阶层，也印证了一个健康国家应该是橄榄形社会结构，那么当一个国家不再保护财产权那么中产阶层会大量消亡，财富的分配模式只剩下掠夺和被掠夺，与保守派所强调的财产权是个人自由的基石的说法高度契合</li>
+<li>关于编程语言，动态语言比静态语言更自由，静态语言更利于计算机理解所以效率高，但目前的硬件性能溢出可以忽略这点效率优势，那么长期来看在未来随着硬件性能产生摩尔效应的增长，那么那些虽然效率低下但极具抽象性的编程语言也许就是未来需要的主流语言</li>
+<li>这本书让我隐约感觉出一点科技进步主义的味道，对于作者流露出的这种思想我目前持保守态度</li>
+</ul>
+
+          </div>
+        </div>
+
+        
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">理性的最后一步，就是承认有无限多的事物超出理性范围；假如理性不能承认这一点，它只能是脆弱的——布莱兹・帕斯卡尔《思想录》</div>
   <div class="social-container">
     
       
@@ -71,103 +117,26 @@ Hackers and Painters: Big Ideas from the Computer Age
       
     
   </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://johnsonfloyd.github.io//atom.xml" target="_blank">RSS</a>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              黑客与画家读后感
-            </h2>
-            <div class="post-info">
-              <span>
-                2022-05-16
-              </span>
-              <span>
-                2 min read
-              </span>
-              
-            </div>
-            
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <ul>
-<li><strong>Hackers and Painters: Big Ideas from the Computer Age</strong></li>
-<li>从黑客的角度说明为何他们从外表和行动看上去和周围人格格不入，尤其是在中学生时期，除了是由于现代教育的监狱模式以外，最主要的原因是以他们故意为之。</li>
-<li>当人类开始以创造而非盗窃的手段来积累财富后使得整个社会的财富水平快速上升，这部分人以创造来获取财富的人就是大家熟知的中产阶层，也印证了一个健康国家应该是橄榄形社会结构，那么当一个国家不再保护财产权那么中产阶层会大量消亡，财富的分配模式只剩下掠夺和被掠夺，与保守派所强调的财产权是个人自由的基石的说法高度契合</li>
-<li>关于编程语言，动态语言比静态语言更自由，静态语言更利于计算机理解所以效率高，但目前的硬件性能溢出可以忽略这点效率优势，那么长期来看在未来随着硬件性能产生摩尔效应的增长，那么那些虽然效率低下但极具抽象性的编程语言也许就是未来需要的主流语言</li>
-<li>这本书让我隐约感觉出一点科技进步主义的味道，对于作者流露出的这种思想我目前持保守态度</li>
-</ul>
 
-              </div>
-              <div class="toc-container">
-                
-              </div>
-            </div>
-          </article>
-        </div>
-
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://johnsonfloyd.github.io/post/hello-gridea/">
-              <h3 class="post-title">
-                Hello Gridea
-              </h3>
-            </a>
-          </div>
-        
-
-        
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://johnsonfloyd.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
-      </div>
     </div>
+    <script type="application/javascript">
 
-    <script>
-      hljs.initHighlightingOnLoad()
+hljs.initHighlightingOnLoad()
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
+</script>
 
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
 
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
 
-    </script>
+
   </body>
 </html>
