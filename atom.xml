@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://johnsonfloyd.github.io/</id>
+    <id>https://johnsonfloyd.github.io</id>
     <title>冬瓜的博客</title>
-    <updated>2022-05-16T08:12:14.752Z</updated>
+    <updated>2022-05-16T08:44:28.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://johnsonfloyd.github.io/"/>
+    <link rel="alternate" href="https://johnsonfloyd.github.io"/>
     <link rel="self" href="https://johnsonfloyd.github.io/atom.xml"/>
     <subtitle>理性的最后一步，就是承认有无限多的事物超出理性范围；假如理性不能承认这一点，它只能是脆弱的——布莱兹・帕斯卡尔《思想录》</subtitle>
     <logo>https://johnsonfloyd.github.io/images/avatar.png</logo>
