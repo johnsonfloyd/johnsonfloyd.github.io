@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnsonfloyd.github.io</id>
     <title>冬瓜的博客</title>
-    <updated>2022-05-16T10:43:45.236Z</updated>
+    <updated>2022-05-16T10:59:43.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnsonfloyd.github.io"/>
     <link rel="self" href="https://johnsonfloyd.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://johnsonfloyd.github.io/post/qiang-xi-jun-he-gang-tie-du-hou-gan/</id>
         <link href="https://johnsonfloyd.github.io/post/qiang-xi-jun-he-gang-tie-du-hou-gan/">
         </link>
-        <updated>2022-05-16T05:19:33.000Z</updated>
+        <updated>2021-10-19T05:19:33.000Z</updated>
         <content type="html"><![CDATA[<ul>
 <li><strong>Guns, Germs, and Steel: The Fates of Human Societies</strong></li>
 <li>决定人类发展进度的两大重要因素：
@@ -38,21 +38,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黑客与画家]]></title>
-        <id>https://johnsonfloyd.github.io/post/hei-ke-yu-hua-jia-du-hou-gan/</id>
-        <link href="https://johnsonfloyd.github.io/post/hei-ke-yu-hua-jia-du-hou-gan/">
-        </link>
-        <updated>2022-05-16T04:28:17.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li><strong>Hackers and Painters: Big Ideas from the Computer Age</strong></li>
-<li>从黑客的角度说明为何他们从外表和行动看上去和周围人格格不入，尤其是在中学生时期，除了是由于现代教育的监狱模式以外，最主要的原因是以他们故意为之。</li>
-<li>当人类开始以创造而非盗窃的手段来积累财富后使得整个社会的财富水平快速上升，这部分人以创造来获取财富的人就是大家熟知的中产阶层，也印证了一个健康国家应该是橄榄形社会结构，那么当一个国家不再保护财产权那么中产阶层会大量消亡，财富的分配模式只剩下掠夺和被掠夺，与保守派所强调的财产权是个人自由的基石的说法高度契合</li>
-<li>关于编程语言，动态语言比静态语言更自由，静态语言更利于计算机理解所以效率高，但目前的硬件性能溢出可以忽略这点效率优势，那么长期来看在未来随着硬件性能产生摩尔效应的增长，那么那些虽然效率低下但极具抽象性的编程语言也许就是未来需要的主流语言</li>
-<li>这本书让我隐约感觉出一点科技进步主义的味道，对于作者流露出的这种思想我目前持保守态度</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2020年的街拍]]></title>
         <id>https://johnsonfloyd.github.io/post/jie-pai/</id>
         <link href="https://johnsonfloyd.github.io/post/jie-pai/">
@@ -64,6 +49,21 @@
 落单的自行车</p>
 <p><img src="https://cdn.jsdelivr.net/gh/johnsonfloyd/Figurebed/img/20200623213630.JPG" alt="" loading="lazy"><br>
 今天收获怎么样</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客与画家]]></title>
+        <id>https://johnsonfloyd.github.io/post/hei-ke-yu-hua-jia-du-hou-gan/</id>
+        <link href="https://johnsonfloyd.github.io/post/hei-ke-yu-hua-jia-du-hou-gan/">
+        </link>
+        <updated>2020-02-03T04:28:17.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li><strong>Hackers and Painters: Big Ideas from the Computer Age</strong></li>
+<li>从黑客的角度说明为何他们从外表和行动看上去和周围人格格不入，尤其是在中学生时期，除了是由于现代教育的监狱模式以外，最主要的原因是以他们故意为之。</li>
+<li>当人类开始以创造而非盗窃的手段来积累财富后使得整个社会的财富水平快速上升，这部分人以创造来获取财富的人就是大家熟知的中产阶层，也印证了一个健康国家应该是橄榄形社会结构，那么当一个国家不再保护财产权那么中产阶层会大量消亡，财富的分配模式只剩下掠夺和被掠夺，与保守派所强调的财产权是个人自由的基石的说法高度契合</li>
+<li>关于编程语言，动态语言比静态语言更自由，静态语言更利于计算机理解所以效率高，但目前的硬件性能溢出可以忽略这点效率优势，那么长期来看在未来随着硬件性能产生摩尔效应的增长，那么那些虽然效率低下但极具抽象性的编程语言也许就是未来需要的主流语言</li>
+<li>这本书让我隐约感觉出一点科技进步主义的味道，对于作者流露出的这种思想我目前持保守态度</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
