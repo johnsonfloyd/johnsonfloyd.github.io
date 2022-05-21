@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://johnsonfloyd.github.io</id>
     <title>冬瓜的博客</title>
-    <updated>2022-05-20T02:44:23.775Z</updated>
+    <updated>2022-05-21T09:02:02.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://johnsonfloyd.github.io"/>
     <link rel="self" href="https://johnsonfloyd.github.io/atom.xml"/>
@@ -10,6 +10,113 @@
     <logo>https://johnsonfloyd.github.io/images/avatar.png</logo>
     <icon>https://johnsonfloyd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 冬瓜的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[超越智商]]></title>
+        <id>https://johnsonfloyd.github.io/post/chao-yue-zhi-shang/</id>
+        <link href="https://johnsonfloyd.github.io/post/chao-yue-zhi-shang/">
+        </link>
+        <updated>2022-05-21T08:49:42.000Z</updated>
+        <content type="html"><![CDATA[<p><em>What intelligence Tests Miss: The Psychology of Rational Thought  2009</em></p>
+<p><em>基思·斯塔诺威克</em></p>
+<p><em>如果近10年最具影响力的心理学书籍是《快思慢想》的话，那么这本书就是《快思慢想》的基石，它更详细的阐述了大脑的加工过程，有别于《快思慢想》中的双系统说法，本书描述成双类型或者说双进程（dual-process)，这样不容易像《快思慢想》描述的系统那么让人误以为大脑是分生理区块的，并且在类型二的基础上细分了算法心智和反省心智，让我们更深入的理解了理性思维到底在哪部分起作用和怎么运作</em></p>
+<h3 id="类型一加工type-1-process">类型一加工（Type 1 process）</h3>
+<h4 id="自主心智autonomous-mind">自主心智（autonomous mind）</h4>
+<ul>
+<li>组成部分
+<ul>
+<li>情感化反应</li>
+<li>习得的自动化反应</li>
+<li>条件化反应</li>
+<li>由进化过程塑造的适应性组块</li>
+</ul>
+</li>
+<li>特点
+<ul>
+<li>执行迅速</li>
+<li>只要触发性刺激出现，就会强制性执行</li>
+<li>不会加重中枢处理能力（central processing capacity）的负荷换句话说不需要有注意力</li>
+<li>可以平行运作而不会相互干扰，不影响类型二加工</li>
+</ul>
+</li>
+<li><strong>相当于驾驶员学开车的无意识操作</strong></li>
+</ul>
+<h3 id="类型二加工-type-2-process">类型二加工 （Type 2 process）</h3>
+<ul>
+<li>
+<p>特点</p>
+<ul>
+<li>加工速度慢，计算负荷高</li>
+<li>基于语言和规则，心理学家称之为控制加工</li>
+<li>重要功能就是<strong>压制</strong>（override）类型一加工</li>
+<li><strong>认知去耦</strong>消耗大量计算资源，可能导致类型二具有序列性特点的主要推动者</li>
+</ul>
+<h4 id="算法心智">算法心智</h4>
+<ul>
+<li>流体智力（Gf）
+<ul>
+<li>反映个体在多个领域中表现出的推理能力，特别是在新异情景中，主流智商测试的核心部分</li>
+<li>通过抽象推理任务来测量，比如图像分类、瑞文测验、数列推理</li>
+<li><strong>相当于汽车的发动机</strong> ，具有先天性、如处理速度、记忆、逻辑推理</li>
+</ul>
+</li>
+<li>晶体智力（Gc）
+<ul>
+<li>学习积累的陈述性知识，相当于驾驶经验的累积</li>
+<li>通过词汇任务、阅读理解和一般只是测验来测量</li>
+<li><strong>相当于驾驶员对于高级驾驶技术的后天习得，可累积</strong>，如语言能力、概率论、科学推理</li>
+</ul>
+</li>
+</ul>
+<h4 id="反省心智">反省心智</h4>
+<ul>
+<li>关注于系统目标、与目标相关的信念以及基于当前系统目标和信念的最优化的行动</li>
+<li>反省心智体现的是思维倾向（有的说成认知风格），思维倾向的个体差异可通过反省心智操作的测量得出：目标管理、认知价值观、自我管理认知论等</li>
+<li><strong>相当于拥有了能帮助驾驶员分析路况的副驾驶或AI（当然也存在瞎指挥的副驾驶或者被病毒污染的AI，被污化的心智程序）</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="心智程序">心智程序</h3>
+<ul>
+<li>由哈佛大学认知科学家大卫·帕金斯（David Perkins）提出</li>
+<li><img src="https://cdn.jsdelivr.net/gh/johnsonfloyd/Figurebed/img/20220521124006.jpg" alt="" loading="lazy"></li>
+<li>反省心智→除了常识结构中获取信息以外，更重要的是还可以获取个体的观点、信念和目标结构</li>
+<li>算法心智→获取认知操作的微策略以及产生行为和想法的系统规则</li>
+<li>自主心智→不仅可获取由进化过程编译的<strong>封闭知识库</strong>中的信息，还可获取<strong>高度编译的习得信息</strong></li>
+</ul>
+<h3 id="三重加工模型">三重加工模型</h3>
+<ul>
+<li><img src="https://cdn.jsdelivr.net/gh/johnsonfloyd/Figurebed/img/20220521124005.jpg" alt="" loading="lazy"></li>
+<li>箭头A负责压制类型一，箭头B负责启动压制两者的衡量指标不同，虽然都是压制但A的衡量指标是算法心智的Gf，B是反省心智的思维倾向，比如反省和认知需求，<strong>也就是说如果从心理层面启动B才可能启动A的压制功能，如果在心理层面也就是认知层面没有启动压制的意愿也就不存在B的压制功能</strong></li>
+<li>箭头C、D也都与<strong>认知去耦</strong>模拟有关，但衡量指标和因果关系与AB一样，<strong>就像把反省心智比作副驾驶员或辅助AI一样，如果在一些情况下副驾驶员不提醒驾驶员对一些特殊情况作出反应，那么就算驾驶员的反应速度再快，驾驶技术再高超也不会对当下情况作出反应</strong></li>
+<li>箭头F会导致多种结果，如果成功则能完成完全<strong>认知去耦</strong>C，或者通过改变临时焦点模型以改变思维启点，开启一个新的<strong>连续性联结认知</strong>E</li>
+<li>认知吝啬鬼的认知卷入度排列：
+<ol>
+<li>自主心智直接作出反应，完全没有类型二加工参与</li>
+<li>带有焦点偏差的<strong>连续性联结认知</strong>→加工过程DFB都发生，但F失败，最后作出E（F如果成功就转向C）</li>
+<li>虽然有<strong>认知去耦</strong>的参与，但还是压制失败→加工过程全部发生但还是A失败，说明的确个体已习得与类型一加工反应不同的备择信息或是备择规则，但依然犯了错误导致压制失败</li>
+</ol>
+</li>
+</ul>
+<h3 id="总结">总结</h3>
+<ul>
+<li>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/johnsonfloyd/Figurebed/img/20220521124003.jpg" alt="" loading="lazy"></figure>
+<h4 id="高智商群体理性障碍原因">高智商群体理性障碍原因</h4>
+<ul>
+<li>传统智力测试只能对Gf进行评估，不能对Gc和最关键的反省心智进行评估，但Gf只是理性的因素之一</li>
+<li>高Gf群体不能免受<strong>污化心智程序</strong>的影响，因为污染心智程序如果具有<strong>模因</strong>属性难以防范</li>
+<li>高Gf群体即使习得也不一定能长期高频率使用这些心智程序保持压制功能的必要水平，所以同样存在<strong>心智程序缺陷</strong>（因为已经采取过AB所以不算压制失败）</li>
+<li>高Gf群体如果自主心智损伤（例如斯波克先生问题）将缺乏<strong>前注意加工</strong>，也就是说那些自动化、条件化的信息大量涌入算法心智，而算法心智是极其消耗资源的，结果就是造成算法心智当机般的理性障碍（赌博、述情障碍）</li>
+</ul>
+<h4 id="我们能做什么">我们能做什么</h4>
+<ul>
+<li>外部→控制着环境的恶人利用<strong>认知吝啬鬼</strong>，但控制着环境的善良人会帮助我们，使我们避免做出非理性行为，又不必改变认知的基本观点，在一个民主国家，我们在一定程度上控制着我们的环境</li>
+<li>内部→学习更多理性思维任务避免以下错误思维倾向：不一致的概率评价倾向，知识评价中的过度自信倾向，忽视基础概率倾向，不对假说进行伪证的倾向，试图解释随机事件的倾向，自利性个人评价的倾向，用我方偏见评价证据的倾向，忽视备选假设的倾向</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人件]]></title>
         <id>https://johnsonfloyd.github.io/post/ren-jian/</id>
@@ -145,7 +252,7 @@
 <li>地理环境
 <ul>
 <li>欧亚大陆<strong>横向</strong>地理环境更利于农作物的传播，因为维度决定气候相似，农作物的传播导致工具和文化也更容易传播，而美洲、非洲<strong>纵向</strong>地理环境不容易文化、科技的传播而造成落后</li>
-<li>欧洲多岛的地理环境造就了<strong>政治文化的分裂</strong>，而中国的黄河、长江贯穿东西更利于农作物的传播从而促进了<strong>政治文化的统一</strong>，但是政治文化的分裂更利于科技、文化发展的多样性，所以即使中国的农作物发展的更早却在后期各方面被欧洲超过，举个例子哥伦布探索新大陆的计划在欧洲经过各个国家的数十次申请终于得到西班牙某皇室的募捐，而在明朝的相似计划由于党派斗争后决定取消而错失了首先探索到新大陆并殖民新大陆的可能性，如果明朝不是大一统而是联邦制，那么这个计划很可能在其他地方得到批准和资助。</li>
+<li>欧洲多岛的地理环境造就了<strong>政治文化的分裂</strong>，而中国的黄河、长江贯穿东西更利于农作物的传播从而促进了<strong>政治文化的统一</strong>，但是政治文化的分裂更利于科技、文化发展的多样性，所以即使中国的农作物发展的更早却在后期各方面被欧洲超过，举个例子哥伦布探索新大陆的计划在欧洲经过各个国家的数十次申请终于得到西班牙某皇室的募捐，而在明朝的相似计划皇帝一个人说了算不具备容错机制而错失了首先探索到新大陆并殖民新大陆的可能性，如果明朝不是大一统而是联邦制，那么这个计划很可能得到其他权力机构批准和资助。</li>
 </ul>
 </li>
 <li>生态环境
@@ -183,7 +290,7 @@
 <li><strong>Hackers and Painters: Big Ideas from the Computer Age</strong></li>
 <li>从黑客的角度说明为何他们从外表和行动看上去和周围人格格不入，尤其是在中学生时期，除了是由于现代教育的监狱模式以外，最主要的原因是以他们故意为之。</li>
 <li>当人类开始以创造而非盗窃的手段来积累财富后使得整个社会的财富水平快速上升，这部分人以创造来获取财富的人就是大家熟知的中产阶层，也印证了一个健康国家应该是橄榄形社会结构，那么当一个国家不再保护财产权那么中产阶层会大量消亡，财富的分配模式只剩下掠夺和被掠夺，与保守派所强调的财产权是个人自由的基石的说法高度契合</li>
-<li>关于编程语言，动态语言比静态语言更自由，静态语言更利于计算机理解所以效率高，但目前的硬件性能溢出可以忽略这点效率优势，那么长期来看在未来随着硬件性能产生摩尔效应的增长，那么那些虽然效率低下但极具抽象性的编程语言也许就是未来需要的主流语言</li>
+<li>关于编程语言，动态语言比静态语言更自由，静态语言更利于计算机理解所以效率高，但目前的硬件性能溢出可以忽略这点效率优势，那么长期来看在未来随着硬件性能产生摩尔效应的增长，那么那些虽然效率低下但极具抽象性的编程语言也许就是未来需要的主流语言（中文的抽象性也不错啊，哈哈）</li>
 <li>这本书让我隐约感觉出一点科技进步主义的味道，对于作者流露出的这种思想我目前持保守态度</li>
 </ul>
 ]]></content>
